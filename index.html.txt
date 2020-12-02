@@ -1,0 +1,7 @@
+<html>
+<title>Selamat Datang</title>
+
+<body>
+	<h1>Selamat Anda Menang</h1>
+</body>
+</html>
