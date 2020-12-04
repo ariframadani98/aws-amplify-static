@@ -595,7 +595,7 @@ a.navbar-brand img {
 }
 
 .pogoSlider-nav-btn {
-	background: #000;
+	/*background: #000;*/
 }
 
 .pogoSlider-nav-btn--selected {
@@ -2168,13 +2168,13 @@ section.inner_banner h3 {
 .blog_img_popular h4 {
     width: 86%;
     background: #fff;
-    margin: 0 7%;
-    padding: 0;
+    margin: 20px 7%;
+    padding: 13px 0;
     color: #095a83;
     text-align: center;
     font-size: 20px;
     min-height: 70px;
-    line-height: 70px !important;
+    line-height: 40px !important;
     box-shadow: 0 0 25px 0 rgba(0,0,0,.2);
     margin-top: -35px;
 }
